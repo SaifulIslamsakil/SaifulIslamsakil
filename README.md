@@ -1,4 +1,4 @@
-
+<img src="https://i.ibb.co/ZM31fFL/Saiful-islam.png">
 # 💫 About Me:
 Hello! I'm Saiful Islam, a front-end web developer passionate about crafting exceptional online experiences. My toolkit includes HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Firebase, and I revel in the dynamic and ever-evolving realm of web development.<br><br>With a focus on clean and semantic code, I navigate the intricacies of web design with precision. Tailwind CSS is my styling companion, allowing me to efficiently create sleek and responsive interfaces. React and Next.js are my go-to frameworks for building scalable and SEO-friendly applications.<br><br>Firebase adds real-time capabilities to my projects, enhancing user experiences with seamless backend solutions. Git keeps my development organized, while a commitment to continuous learning ensures I stay at the forefront of industry trends.
 
