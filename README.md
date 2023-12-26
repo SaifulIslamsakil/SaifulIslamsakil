@@ -3,22 +3,22 @@
 
 # Hello World! 👋
 
-I'm saiful islam , a dedicated front-end web developer with a passion for crafting beautiful and user-centric digital experiences. 🚀
+I'm saiful islam , a dedicated front-end web developer passionate about crafting beautiful and user-centric digital experiences. 🚀
 
 ### 💻 Tech Stack
 
 - HTML, CSS, JavaScript: My foundation for creating visually stunning and interactive web applications.
 - Tailwind CSS: My styling superpower, allowing me to design efficiently and responsively.
-- React & Next.js: Building robust and dynamic user interfaces with a focus on scalability and performance.
+- React: Building robust and dynamic user interfaces with a focus on scalability and performance.
 - Firebase: Bringing real-time capabilities to my projects for seamless and efficient backend solutions.
 
 ### 🌟 What Drives Me
 
-I find joy in the art of coding and the challenge of turning ideas into functional, elegant, and accessible websites. Each project is an opportunity to innovate and refine my skills.
+I find joy in coding and the challenge of turning ideas into functional, elegant, and accessible websites. Each project is an opportunity to innovate and refine my skills.
 
 
 # 💫 About Me:
- I'm a front-end web developer passionate about crafting exceptional online experiences. My toolkit includes HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Firebase, and I revel in the dynamic and ever-evolving realm of web development.<br><br>With a focus on clean and semantic code, I navigate the intricacies of web design with precision. Tailwind CSS is my styling companion, allowing me to efficiently create sleek and responsive interfaces. React and Next.js are my go-to frameworks for building scalable and SEO-friendly applications.<br><br>Firebase adds real-time capabilities to my projects, enhancing user experiences with seamless backend solutions. Git keeps my development organized, while a commitment to continuous learning ensures I stay at the forefront of industry trends.
+ I'm a front-end web developer passionate about crafting exceptional online experiences. My toolkit includes HTML, CSS, JavaScript, Tailwind CSS, React,  and Firebase, and I revel in the dynamic and ever-evolving realm of web development.<br><br>With a focus on clean and semantic code, I navigate the intricacies of web design with precision. Tailwind CSS is my styling companion, allowing me to create sleek and responsive interfaces efficiently. React is my go-to framework for building scalable and SEO-friendly applications.<br><br>Firebase adds real-time capabilities to my projects, enhancing user experiences with seamless backend solutions. Git keeps my development organized, while a commitment to continuous learning ensures I stay at the forefront of industry trends.
 
 
 ## 🌐 Socials:
